@@ -28,7 +28,7 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"Delhi Technological University | B.Tech in Computer Engineering",
-        "specialization":"9.45 CGPA",
+        "specialization":"9.43 CGPA",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2022",
         "Achievements":"Lead Coder | Part of Smart India Hackathon 2019 and 2020"
